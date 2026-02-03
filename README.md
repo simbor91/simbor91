@@ -39,5 +39,3 @@ My experience in distributed teams has taught me that clear documentation and in
 
 📫 **Get in touch:** [LinkedIn](https://www.linkedin.com/in/simoneborgna/) | sim.borgna@gmail.com
 ---
-
-[cite_start]📫 **Contattami:** [LinkedIn](https://www.linkedin.com/in/simoneborgna/) | sim.borgna@gmail.com [cite: 6, 8]
