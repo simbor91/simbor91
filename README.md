@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 ### 🚀 Software Engineer | Transitioning to Python Development
-I am a dedicated Engineer with over 8 years of experience in high-stakes **Automotive** environments, specializing in software testing, cybersecurity, and requirement analysis.
+I am a dedicated Engineer with almost 10 years of experience in high-stakes **Automotive** environments, specializing in software testing, cybersecurity, and requirement analysis.
 Currently, I am pivoting towards **Software Development**, leveraging my analytical background to build efficient, scalable, and clean solutions using **Python**.
+I am also experimenting a lot with AI, building my own private app in **Typescript** to track the beatuiful places me and my wife get to see traveling around the world.
 
 ---
 
