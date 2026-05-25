@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 🚀 Software Engineer | Transitioning to Python Development
-I am a dedicated Engineer with almost 10 years of experience in high-stakes **Automotive** environments, specializing in software testing, cybersecurity, and requirement analysis.
-Currently, I am pivoting towards **Software Development**, leveraging my analytical background to build efficient, scalable, and clean solutions using **Python**.
-I am also experimenting a lot with AI, building my own private app in **Typescript** to track the beatuiful places me and my wife get to see traveling around the world.
+### 🚀 Software Engineer | Field Application Engineer | MLOps enthusiastic
+I am a dedicated Engineer with almost 10 years of experience in high-stakes **Automotive** environments, specializing in software testing, cybersecurity, and requirement analysis.  
+Currently, I am pivoting towards **Software Development**, leveraging my analytical background to build efficient, scalable, and clean solutions using **Python**.  
+I am also experimenting with AI, building my own private app in **Typescript** to track the beatuiful places me and my wife get to see traveling around the world.
 
 ---
 
 ### 🛠️ What I'm working on
 - 🐍 Enhancing my **Python** and Scientific Computing skills through intensive projects (freeCodeCamp certified path).
+- 🌍 Building my **Typescript** travel blog using AI tool (Goolge Stitch, AI Studio, GitHib Actions).
 - 🤖 Applying my **Problem-Solving** mindset to automate complex workflows and data manipulation.
 - 🌍 Working daily with international stakeholders in **English (C1)**.
 
