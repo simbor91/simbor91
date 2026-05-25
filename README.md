@@ -24,7 +24,7 @@ I am also experimenting with AI, building my own private app in **Typescript** t
 
 ### 🛠️ What I'm working on
 - 🐍 Enhancing my **Python** and Scientific Computing skills through intensive projects (freeCodeCamp certified path).
-- 🌍 Building my **Typescript** travel blog using AI tool (Goolge Stitch, AI Studio, GitHib Actions).
+- 🛫 Building my **Typescript** travel blog using AI tool (Goolge Stitch, AI Studio, GitHib Actions).
 - 🤖 Applying my **Problem-Solving** mindset to automate complex workflows and data manipulation.
 - 🌍 Working daily with international stakeholders in **English (C1)**.
 
